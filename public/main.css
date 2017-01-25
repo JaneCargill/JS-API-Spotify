@@ -1,0 +1,42 @@
+html{
+  background-image: url(bg4.jpeg);
+  /*background-repeat: no-repeat;*/
+  background-size: contain;
+  
+}
+main{
+  width: 300px;
+  margin: 0 auto;
+  
+}
+
+h1{
+  font-family: fantasy;
+  color: black;
+     -webkit-text-fill-color: white; 
+     -webkit-text-stroke-width: 1px;
+     -webkit-text-stroke-color: black;
+  text-align: center; 
+
+}
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+  width: 400px;
+  font-size: 22px;
+  margin: 10px;
+}
+
+.album{
+  padding: 5px;
+ 
+}
+
+p{
+  font-family: verdana, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  color: rgb(255, 0, 255);
+}
+
